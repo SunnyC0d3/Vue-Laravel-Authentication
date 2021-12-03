@@ -1,4 +1,4 @@
-#A JWT Application using Vue and Laravel
+# A JWT Application using Vue and Laravel
 
 The purpose of this application was to learn Laravel. Exploring how to configure databases, controllers, views, models, and much more.
 

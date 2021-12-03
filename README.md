@@ -16,11 +16,11 @@ Then all you need to do is, setup your **.env** file. I am using **MySQL** as my
 
 Once everything has been setup, run the following commands -
 
-'''
+```
 ./vendor/bin/sail php artisan migrate
 
 ./vendor/bin/sail php artisan db:seed
-'''
+```
 
 That should populate your database using Seeders.
 

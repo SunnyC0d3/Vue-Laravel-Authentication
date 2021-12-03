@@ -1,0 +1,16 @@
+header {
+    @apply p-4 shadow-md bg-gray text-black flex;
+    nav {
+        @apply ml-auto;
+        a {
+            @apply mx-4;
+        }
+    }
+}
+
+footer {
+    @apply p-4 shadow-md bg-gray text-black flex;
+    p {
+        @apply mx-auto;
+    }
+}

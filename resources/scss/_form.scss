@@ -1,0 +1,13 @@
+form {
+    @apply bg-gray my-12 mx-auto max-w-screen-md p-8 shadow-md;
+    h2 {
+        @apply pb-12 text-center;
+    }
+    input,
+    input[type="submit"] {
+        @apply w-full py-4 px-2 mb-2 rounded border border-2 border-purple;
+    }
+    input[type="submit"] {
+        @apply bg-purple text-white font-bold;
+    }
+}

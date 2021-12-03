@@ -1,0 +1,6 @@
+.banner {
+    @apply flex items-start justify-center bg-gradient-to-r from-purple to-dark_purple;
+    h1 {
+        @apply py-28 text-white;
+    }
+}

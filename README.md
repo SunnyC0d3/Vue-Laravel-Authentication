@@ -12,7 +12,7 @@ This project was essentially a learning curve for understanding Laravel, Vue and
 
 To install the application, just simply clone it to your desktop or download it.
 
-Then all you need to do is, setup your **.env** file. I am using **MySQL** as my database choice and since this application is configured with docker, you may have to do extra changes if you decide to use another database.
+Then all you need to do is, setup your **.env** file. I am using **MySQL** as my database choice and since this application is configured with docker, you may have to do extra changes if you decide to use another database. For more information in regards to Laravel Sail, please see the docs [here](https://laravel.com/docs/8.x/sail).
 
 Once everything has been setup, run the following commands -
 
